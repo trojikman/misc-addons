@@ -16,6 +16,11 @@ Allows to brand odoo:
 
 Depends on ``web_debranding``.
 
+Modules that can be disabled
+----------------------------
+
+It is tested that if you don't need functionality of the `access_settings_menu <https://apps.odoo.com/apps/modules/12.0/access_settings_menu/>`__ you can remove it from dependencies of the ``web_debranding``.
+
 Questions?
 ==========
 
